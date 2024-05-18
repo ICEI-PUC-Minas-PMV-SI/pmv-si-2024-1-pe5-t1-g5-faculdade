@@ -7,18 +7,21 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A proposta deste projeto consiste na criação de um sistema  de infraestrutura de redes para um novo campus de uma faculdade. A iniciativa surge com o objetivo de trazer uma infraestrutura de redes robusta, inteligente e inovadora que promova uma experiência acadêmica excepcional. Tal infraestrutura se tornará não apenas um facilitador tecnológico, mas um pilar essencial na construção do conhecimento, e melhoria das atuais demandas que vem com a criação de um novo campus de faculdade.
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* João Gabriel Alves 
+* Joao Victor dos Anjos Sales 
+* Jônatas Fernandes Ferreira 
+* Kelly Marques 
+* Marco Willy Azevedo Gomes 
+* Thiago Vinicius Costa Guimaraes
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Fabio Leandro Rodrigues Cordeiro
 
 
