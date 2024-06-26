@@ -1,0 +1,25 @@
+package com.example.faculdade_progressus.models;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import jakarta.persistence.*;
+import lombok.Getter;
+import lombok.Setter;
+
+import java.util.Set;
+
+@Getter
+@Setter
+@Entity
+public class Curso {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    private String nome;
+
+    private String descricao;
+
+    @OneToMany(mappedBy = "curso")
+    @JsonIgnoreProperties("curso")
+    private Set<Disciplina> disciplinas;
+}
